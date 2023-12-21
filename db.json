@@ -1,0 +1,306 @@
+{
+  "empData": [
+    {
+      "id": 3,
+      "name": "manis",
+      "email": "c@gmail.com",
+      "city": "bihar"
+    },
+    {
+      "id": 4,
+      "name": "karthick",
+      "email": "d@gmail.com",
+      "city": "andhara"
+    }
+  ],
+  "E-commerce": [
+    {
+      "id": 1,
+      "image": "https://i5.walmartimages.com/seo/Apple-Watch-Series-6-GPS-Cellular-44mm-Silver-Aluminum-Case-with-White-Sport-Band-Regular_a1fc76b2-33c2-4f64-a608-94f0a4fe9931.8629404baedf60840b5190eb622f5444.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "brand": "Apple",
+      "name": "Apple Watch Series 6",
+      "color": "White",
+      "material": "Lather",
+      "price": "44235",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 2,
+      "image": " https://www.reliancedigital.in/medias/Apple-MKR23HN-A-Smart-Gear-491998013-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNjI5MnxpbWFnZS9qcGVnfGltYWdlcy9oN2YvaDQ3Lzk4MTU4NDI0MjI4MTQuanBnfGIyNjUzYjljNGMxYjhmYzljOGEwOGY2MzdjMmE5OWFhYjgxZTYyYmQ2MmQ1ZWM1ODQyZDc2Zjg4NzU1NGU1ZGI",
+      "brand": "Apple ",
+      "name": "Apple Watch SE GPS(2nd gen)",
+      "color": "Gray",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "26443",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 3,
+      "image": "https://www.91-img.com/pictures/wearables/apple/apple-watch-series-8-152578-large-1.jpg",
+      "brand": "Apple ",
+      "name": "Apple Watch Series 8 ",
+      "color": "Gray",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "45203",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 4,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9802649/2019/5/27/cf862a2d-bb28-47fa-841d-49e220f5cd4f1558948766992-Apple-Unisex-Smart-Watches-9421558948766701-1.jpg",
+      "brand": "Apple ",
+      "name": "Apple Watch Series 4  ",
+      "color": "Pink",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "35203",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 5,
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/5b208f15-4ff8-4f87-993d-f1439dbb31f621200838_416x416.jpg",
+      "brand": "Noise ",
+      "name": "Noise Fit Evolve 2",
+      "color": "Black",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "6489",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,noise Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,noise app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 6,
+      "image": "https://www.jiomart.com/images/product/original/493178068/noise-colorfit-caliber-go-smart-watch-with-4-29-cm-1-69-inch-full-touch-color-display-rose-pink-digital-o493178068-p593985642-0-202209231410.jpeg?im=Resize=(420,420)",
+      "brand": "Noise ",
+      "name": "Noise Color Fit",
+      "color": "Pink",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "4327",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,noise Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,noisefit app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 7,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/MC/HG/RN/120839976/boat-xtend-smartwatch.jpg",
+      "brand": "boAt ",
+      "name": "boat Wave ",
+      "color": "Pink",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "1259",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,boat Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,boat app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 8,
+      "image": "https://image01-in.oneplus.net/ebp/202210/26/1-m00-46-27-cpgm7wnyldyaddlzaahh575od7q611.png",
+      "brand": " oneplus",
+      "name": "oneplus nord",
+      "color": "Dark Gray",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "4897",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,oneplus Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,oneplus app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 9,
+      "image": "https://m.media-amazon.com/images/I/61VVeNXaw4L.jpg",
+      "brand": "Goole ",
+      "name": "google pixel",
+      "color": "White",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "27799",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,google Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,google app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 10,
+      "image": "https://www.reliancedigital.in/medias/Samsung-SM-R915FZBAINU-Smart-Watch-493177543-i-2-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3OTg2M3xpbWFnZS9qcGVnfGltYWdlcy9oNjMvaDBiLzk4ODY5MjUzNTcwODYuanBnfGI5MDczNDdkYTQ0YzBkNjM4NmUzYTNkMGY4ZTAyZTQyNThiYjRjMWUxYTViNDY0ZjNiY2YzZmI3MDJlM2Q3OTA",
+      "brand": "Samsung ",
+      "name": "samsung Galaxy 6",
+      "color": "Lighte Blue",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "36999",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,samsing Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,samsung app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 11,
+      "image": "https://i.gadgets360cdn.com/products/large/noise-colorfit-pro-3-db-500x800-1612940947.jpg",
+      "brand": "Noise ",
+      "name": "Noise Fit Pro 3",
+      "color": "White",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "3799",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,noise Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor, app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 12,
+      "image": "https://i5.walmartimages.com/seo/Apple-Watch-Series-6-GPS-Cellular-44mm-Silver-Aluminum-Case-with-White-Sport-Band-Regular_a1fc76b2-33c2-4f64-a608-94f0a4fe9931.8629404baedf60840b5190eb622f5444.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "brand": "Apple",
+      "name": "Apple Watch Series 6",
+      "color": "White",
+      "material": "Lather",
+      "price": "44235",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 13,
+      "image": " https://www.reliancedigital.in/medias/Apple-MKR23HN-A-Smart-Gear-491998013-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNjI5MnxpbWFnZS9qcGVnfGltYWdlcy9oN2YvaDQ3Lzk4MTU4NDI0MjI4MTQuanBnfGIyNjUzYjljNGMxYjhmYzljOGEwOGY2MzdjMmE5OWFhYjgxZTYyYmQ2MmQ1ZWM1ODQyZDc2Zjg4NzU1NGU1ZGI",
+      "brand": "Apple ",
+      "name": "Apple Watch SE GPS(2nd gen)",
+      "color": "Gray",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "26443",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 14,
+      "image": "https://www.91-img.com/pictures/wearables/apple/apple-watch-series-8-152578-large-1.jpg",
+      "brand": "Apple ",
+      "name": "Apple Watch Series 8 ",
+      "color": "Gray",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "45203",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 15,
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9802649/2019/5/27/cf862a2d-bb28-47fa-841d-49e220f5cd4f1558948766992-Apple-Unisex-Smart-Watches-9421558948766701-1.jpg",
+      "brand": "Apple ",
+      "name": "Apple Watch Series 4  ",
+      "color": "Pink",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "35203",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 16,
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/5b208f15-4ff8-4f87-993d-f1439dbb31f621200838_416x416.jpg",
+      "brand": "Noise ",
+      "name": "Noise Fit Evolve 2",
+      "color": "Black",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "6489",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,noise Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,noise app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 17,
+      "image": "https://www.jiomart.com/images/product/original/493178068/noise-colorfit-caliber-go-smart-watch-with-4-29-cm-1-69-inch-full-touch-color-display-rose-pink-digital-o493178068-p593985642-0-202209231410.jpeg?im=Resize=(420,420)",
+      "brand": "Noise ",
+      "name": "Noise Color Fit",
+      "color": "Pink",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "4327",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,noise Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,noisefit app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 18,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/MC/HG/RN/120839976/boat-xtend-smartwatch.jpg",
+      "brand": "boAt ",
+      "name": "boat Wave ",
+      "color": "Pink",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "1259",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,boat Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,boat app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 19,
+      "image": "https://image01-in.oneplus.net/ebp/202210/26/1-m00-46-27-cpgm7wnyldyaddlzaahh575od7q611.png",
+      "brand": " oneplus",
+      "name": "oneplus nord",
+      "color": "Dark Gray",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "4897",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,oneplus Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,oneplus app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 20,
+      "image": "https://m.media-amazon.com/images/I/61VVeNXaw4L.jpg",
+      "brand": "Goole ",
+      "name": "google pixel",
+      "color": "White",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "27799",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,google Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,google app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 21,
+      "image": "https://www.reliancedigital.in/medias/Samsung-SM-R915FZBAINU-Smart-Watch-493177543-i-2-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3OTg2M3xpbWFnZS9qcGVnfGltYWdlcy9oNjMvaDBiLzk4ODY5MjUzNTcwODYuanBnfGI5MDczNDdkYTQ0YzBkNjM4NmUzYTNkMGY4ZTAyZTQyNThiYjRjMWUxYTViNDY0ZjNiY2YzZmI3MDJlM2Q3OTA",
+      "brand": "Samsung ",
+      "name": "samsung Galaxy 6",
+      "color": "Lighte Blue",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "36999",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,samsing Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,samsung app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 22,
+      "image": "https://i.gadgets360cdn.com/products/large/noise-colorfit-pro-3-db-500x800-1612940947.jpg",
+      "brand": "Noise ",
+      "name": "Noise Fit Pro 3",
+      "color": "White",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "3799",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,noise Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor, app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 23,
+      "image": "https://i.gadgets360cdn.com/products/large/noise-colorfit-pro-3-db-500x800-1612940947.jpg",
+      "brand": "Noise ",
+      "name": "Noise Fit Pro 3",
+      "color": "White",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "3799",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,noise Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor, app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 24,
+      "image": "https://i5.walmartimages.com/seo/Apple-Watch-Series-6-GPS-Cellular-44mm-Silver-Aluminum-Case-with-White-Sport-Band-Regular_a1fc76b2-33c2-4f64-a608-94f0a4fe9931.8629404baedf60840b5190eb622f5444.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "brand": "Apple",
+      "name": "Apple Watch Series 6",
+      "color": "White",
+      "material": "Lather",
+      "price": "44235",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    },
+    {
+      "id": 25,
+      "image": " https://www.reliancedigital.in/medias/Apple-MKR23HN-A-Smart-Gear-491998013-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNjI5MnxpbWFnZS9qcGVnfGltYWdlcy9oN2YvaDQ3Lzk4MTU4NDI0MjI4MTQuanBnfGIyNjUzYjljNGMxYjhmYzljOGEwOGY2MzdjMmE5OWFhYjgxZTYyYmQ2MmQ1ZWM1ODQyZDc2Zjg4NzU1NGU1ZGI",
+      "brand": "Apple ",
+      "name": "Apple Watch SE GPS(2nd gen)",
+      "color": "Gray",
+      "material": "Lather",
+      "display": "LCD",
+      "price": "26443",
+      "highlights": "1.8 LCD display,Bluetooth Calling Smartwatch with AI voice assistance,apple Health SuiteTM: Blood Oxygen, 24*7 Heart rate monitor, Stress Monitor and Sleep Monitor,apple app: Pair with the improved Noisefit app for better health insights"
+    }
+  ],
+  "Add-cart": [
+    {
+      "id": 2,
+      "image": " https://www.reliancedigital.in/medias/Apple-MKR23HN-A-Smart-Gear-491998013-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNjI5MnxpbWFnZS9qcGVnfGltYWdlcy9oN2YvaDQ3Lzk4MTU4NDI0MjI4MTQuanBnfGIyNjUzYjljNGMxYjhmYzljOGEwOGY2MzdjMmE5OWFhYjgxZTYyYmQ2MmQ1ZWM1ODQyZDc2Zjg4NzU1NGU1ZGI",
+      "brand": "Apple ",
+      "name": "Apple Watch SE GPS(2nd gen)",
+      "price": "26443"
+    },
+    {
+      "id": 3,
+      "image": "https://www.91-img.com/pictures/wearables/apple/apple-watch-series-8-152578-large-1.jpg",
+      "brand": "Apple ",
+      "name": "Apple Watch Series 8 ",
+      "price": "45203"
+    }
+  ]
+}
